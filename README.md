@@ -1,9 +1,9 @@
-Repositório feito para armazenar as soluções dos problemas do project Euler:
+Repository for storing solutions of the problems in projecteuler.net:
 
-- Contém as resoluções dos problemas
-- Os programas devem levar menos de 1 minuto para serem resolvidos
-- Arquivos com "_" são de problemas não resolvidos
+- Contain the solutions to the problems
+- The solutions must take less than 1 minute to run
+- Archives with "_" are from unsolved problems
   
-Minhas resoluções antigas foram perdidas*
+My old solutions were lost*
 
 
